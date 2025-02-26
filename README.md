@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Bernardo 
+Matricula: 1590240
 
 ## Tela de inspeção com navegador
-
+![alt text](image.png)
 
 ## Tela de projeto no Replit
 
+![alt text](image-1.png)
+![alt text](image-2.png)
